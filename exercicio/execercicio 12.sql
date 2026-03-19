@@ -1,0 +1,1 @@
+EXPLAIN SELECT * FROM alunos WHERE cpf = '100.000.000-01';
